@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275944981099",
+    "project_id": "signup-e7d79",
+    "storage_bucket": "signup-e7d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275944981099:android:7f320860f7422f7530272e",
+        "android_client_info": {
+          "package_name": "com.company.FBP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275944981099-9dnbs4rsunh73ckj7gvcfa9nljta20di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmhj_ruSRbRGb4JYhLni5STdcxhjgz9tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275944981099-9dnbs4rsunh73ckj7gvcfa9nljta20di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

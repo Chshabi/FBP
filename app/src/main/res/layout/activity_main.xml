@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_gradient"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/creepster"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:text="F B P"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+        android:textColor="#D6D6D6" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/creepster"
+        android:gravity="center"
+
+        android:text="Firebase Practic"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#D6D6D6"/>
+
+</LinearLayout>
